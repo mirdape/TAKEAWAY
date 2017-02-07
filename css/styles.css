@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Sahitya');
+* {font-family: 'Sahitya', serif;}
 h2 {font-family: 'Sahitya', serif;}
 #ensaladas .card-reveal {background-color:rgba(252,228,236,0.8)}
 #principales .card-reveal {background-color:rgba(224,224,224,0.8)}
