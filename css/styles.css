@@ -4,3 +4,4 @@ h2 {font-family: 'Sahitya', serif;}
 #ensaladas .card-reveal {background-color:rgba(252,228,236,0.8)}
 #principales .card-reveal {background-color:rgba(224,224,224,0.8)}
 #postres .card-reveal {background-color:rgba(249,251,231,0.8)}
+.fixed-action-btn.horizontal ul li {display: inline-block; margin:8px 8px 0 0}
