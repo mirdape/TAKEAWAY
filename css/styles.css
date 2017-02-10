@@ -6,4 +6,8 @@ h2 {font-family: 'Sahitya', serif;}
 #postres .card-reveal {background-color:rgba(249,251,231,0.8)}
 .fixed-action-btn.horizontal ul li{margin:8px 8px 0 0}
 h2, li a.btn-floating{text-shadow: 3px 3px 4px rgba(150, 150, 150, 0.95);}
+.submenu li {float:none;background-color:#c2185b}
+.submenu {position:absolute;z-index:100;opacity:0;transition:all .3s ease-in .15s;visibility:hidden}
+.desplegable:hover .submenu {opacity:1;visibility:visible }
+
 
