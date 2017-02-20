@@ -9,5 +9,9 @@ h2, li a.btn-floating{text-shadow: 3px 3px 4px rgba(150, 150, 150, 0.95);}
 .submenu li {float:none;background-color:#c2185b}
 .submenu {position:absolute;z-index:100;opacity:0;transition:all .3s ease-in .15s;visibility:hidden}
 .desplegable:hover .submenu {opacity:1;visibility:visible }
+nav {z-index:100}
+.margentop {margin-top:62px}
+.margensup {margin-top:10px}
+
 
 
